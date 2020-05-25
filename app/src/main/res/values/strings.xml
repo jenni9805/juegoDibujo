@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">claseIHC1</string>
+    <string name="ayuda">Help</string>
+    <string name="conf">Configuration</string>
+    <string name="palabras">Words</string>
+    <string name="logros">Unlocked</string>
+    <string name="espanol">Spanish</string>
+    <string name="ingles">English</string>
+    <string name="jugar">Play</string>
+    <string name="logo">Logo</string>
+</resources>

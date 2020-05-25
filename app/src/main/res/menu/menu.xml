@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_ayuda"
+        android:title="@string/ayuda"
+       android:icon="@drawable/ic_launcher_background"/>
+    <item android:id="@+id/menu_conf"
+        android:title="@string/conf"
+        android:icon="@drawable/ic_launcher_background"
+        />
+    <item android:id="@+id/menu_palabras"
+        android:title="@string/palabras"
+        android:icon="@drawable/ic_launcher_background"
+        />
+    <item android:id="@+id/menu_logros"
+        android:title="@string/logros"
+        android:icon="@drawable/ic_launcher_background"
+      />
+
+</menu>

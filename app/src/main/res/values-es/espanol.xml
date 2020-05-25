@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ayuda">Ayuda</string>
+    <string name="conf">Configuracion</string>
+    <string name="palabras">Palabras</string>
+    <string name="logros">Logros</string>
+    <string name="espanol">Español</string>
+    <string name="ingles">Inglés</string>
+    <string name="jugar">Jugar</string>
+    <string name="logo">Logo</string>
+</resources>
